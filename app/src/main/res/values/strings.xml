@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">InstagramClone</string>
+    <string name="facebook_app_id">266530311369809</string>
+    <string name="fb_login_protocol_scheme">fb266530311369809</string>
+
+    <string name="popup_edit">Edit</string>
+    <string name="popup_delete">Delete</string>
+    <string name="popup_report">Report</string>
+
+    <string name="hint_edt_add_a_comment">Add a comment...</string>
+    <string name="hint_edt_search">Search...</string>
+    <string name="hint_edt_description">Description</string>
+    <string name="hint_edt_full_name">Full name</string>
+    <string name="hint_edt_username">Username</string>
+    <string name="hint_edt_bio">Bio</string>
+    <string name="hint_edt_email">Email</string>
+    <string name="hint_edt_password">Password</string>
+
+    <string name="txt_share_to">Share to:</string>
+    <string name="txt_post">POST</string>
+    <string name="txt_edit_profile">Edit Profile</string>
+    <string name="txt_save">SAVE</string>
+    <string name="txt_change_photo">Change Photo</string>
+    <string name="txt_login">Login</string>
+    <string name="txt_check_don_t_have_an_account_register">Don\'t have an account? Register</string>
+    <string name="txt_settings">Settings</string>
+    <string name="txt_log_out">Log Out</string>
+    <string name="txt_add_more_images">Add more images</string>
+    <string name="txt_register">Register</string>
+    <string name="txt_check_already_have_an_account_login">Already have an account? Login</string>
+    <string name="txt_like">Like</string>
+    <string name="txt_comment">Comment</string>
+    <string name="txt_share">Share</string>
+    <string name="txt_more">More</string>
+    <string name="txt_welcome_to_instagram">Welcome to Instagram!</string>
+    <string name="txt_notification">Notification</string>
+    <string name="txt_photo">Photo</string>
+    <string name="txt_posts">posts</string>
+    <string name="txt_followers">followers</string>
+    <string name="txt_following">following</string>
+    <string name="txt_tl">Trả lời</string>
+    <string name="txt_population">Population</string>
+    <string name="txt_view_all_comment">View All Comment</string>
+</resources>
