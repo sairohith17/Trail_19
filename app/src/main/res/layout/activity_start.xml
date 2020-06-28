@@ -6,14 +6,14 @@
     android:orientation="vertical"
     android:gravity="center"
     android:padding="10dp"
-    android:background="@color/white"
+    android:background="@drawable/instagram_backgroung_wallpaper"
     tools:context=".activity.StartActivity">
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="50dp"
-        android:background="@color/white"
-        android:src="@drawable/logo"/>
+
+        android:src="@drawable/instagramm"/>
 
     <Button
         android:layout_width="match_parent"
@@ -21,7 +21,7 @@
         android:text="@string/txt_login"
         android:id="@+id/btnLogin"
         android:layout_marginTop="15dp"
-        android:textColor="@color/colorPrimary"
+        android:textColor="@color/white"
         android:background="@drawable/button_background"/>
 
     <Button
@@ -30,7 +30,7 @@
         android:text="@string/txt_register"
         android:id="@+id/btnRegister"
         android:layout_marginTop="15dp"
-        android:textColor="@color/colorPrimary"
+        android:textColor="@color/white"
         android:background="@drawable/button_background"/>
 
 </LinearLayout>

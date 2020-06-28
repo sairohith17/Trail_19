@@ -3,53 +3,54 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
+    android:background="@drawable/back_ui"
     android:gravity="center"
+    android:orientation="vertical"
     android:padding="10dp"
-    android:background="#FFFFFF"
     tools:context=".activity.LoginActivity">
 
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="70dp"
-        android:background="@color/white"
-        android:src="@drawable/logo"/>
+
+        android:src="@drawable/instagramm" />
 
     <EditText
+        android:id="@+id/edtEmail"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
         android:background="@drawable/edittext_background"
         android:hint="@string/hint_edt_email"
-        android:layout_marginTop="15dp"
         android:inputType="textEmailAddress"
-        android:id="@+id/edtEmail"
-        android:padding="10dp"/>
+        android:padding="10dp" />
 
     <EditText
+        android:id="@+id/edtPassword"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@drawable/edittext_background"
-        android:hint="@string/hint_edt_password"
-        android:drawableEnd="@drawable/ic_visibility_off_black_24dp"
         android:layout_marginTop="15dp"
-        android:id="@+id/edtPassword"
+        android:background="@drawable/edittext_background"
+        android:drawableEnd="@drawable/ic_visibility_off_black_24dp"
+        android:hint="@string/hint_edt_password"
         android:inputType="textPassword"
-        android:padding="10dp"/>
+        android:padding="10dp" />
 
     <Button
+        android:id="@+id/btnLogin"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/btnLogin"
+        android:layout_marginTop="15dp"
+        android:background="@color/colorrAccent"
         android:text="@string/txt_login"
-        android:textColor="@color/colorPrimary"
-        android:background="@drawable/button_background"
-        android:layout_marginTop="15dp"/>
+        android:textColor="@color/white" />
 
     <TextView
+        android:id="@+id/txtRegister"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
         android:text="@string/txt_check_don_t_have_an_account_register"
-        android:id="@+id/txtRegister"
-        android:layout_marginTop="10dp"/>
+        android:textColor="@color/white"/>
 
 </LinearLayout>

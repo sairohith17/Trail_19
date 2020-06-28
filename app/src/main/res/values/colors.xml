@@ -7,4 +7,7 @@
     <color name="com_facebook_button_background_color_focused_disabled">#3C5A99</color>
     <color name="com_facebook_button_background_color_focused">#3C5A99</color>
     <color name="com_facebook_button_border_color_focused">#3C5A99</color>
+    <color name="colorrAccent">#D81B60</color>
+
+
 </resources>

@@ -6,14 +6,14 @@
     android:orientation="vertical"
     android:gravity="center"
     android:padding="10dp"
-    android:background="@color/white"
+    android:background="@drawable/back_ui"
     tools:context=".activity.RegisterActivity">
 
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="70dp"
-        android:background="@color/white"
-        android:src="@drawable/logo"/>
+
+        android:src="@drawable/instagramm"/>
 
     <EditText
         android:layout_width="match_parent"
@@ -58,7 +58,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/btnRegister"
         android:text="@string/txt_register"
-        android:textColor="@color/colorPrimary"
+        android:textColor="@color/white"
         android:background="@drawable/button_background"
         android:layout_marginTop="15dp"/>
 
@@ -66,6 +66,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/txt_check_already_have_an_account_login"
+        android:textColor="@color/white"
         android:id="@+id/txtLogin"
         android:layout_marginTop="10dp"/>
 

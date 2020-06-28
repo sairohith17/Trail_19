@@ -1,42 +1,116 @@
 {
   "project_info": {
-    "project_number": "1000829075873",
-    "firebase_url": "https://instagramclone-29c33.firebaseio.com",
-    "project_id": "instagramclone-29c33",
-    "storage_bucket": "instagramclone-29c33.appspot.com"
+    "project_number": "283512718486",
+    "firebase_url": "https://instagram-1b064.firebaseio.com",
+    "project_id": "instagram-1b064",
+    "storage_bucket": "instagram-1b064.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1000829075873:android:ffc3fb7c94f6a62178cbe0",
+        "mobilesdk_app_id": "1:283512718486:android:f37c56c9d686042681eeb7",
         "android_client_info": {
-          "package_name": "gst.trainingcourse.instagramclone"
+          "package_name": "com.rohith.InstaLove"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1000829075873-f1hsd177dsco6momnadacq7aanahsdah.apps.googleusercontent.com",
+          "client_id": "283512718486-a3e8ghhfiuddl19f4fd78rj8kre6dj58.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "gst.trainingcourse.instagramclone",
-            "certificate_hash": "baf83751b13f153cf4f694bce603e54324066a3b"
+            "package_name": "com.rohith.InstaLove",
+            "certificate_hash": "3e8082e695b26f3b5c40d12e682cbd203e420087"
           }
         },
         {
-          "client_id": "1000829075873-44dfsvsl9rtvgufguju5sp15tj2kqln2.apps.googleusercontent.com",
+          "client_id": "283512718486-j00uf5gh856gqfpl3bgmokkk19iqp426.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCZgJbt6UO1F1womIc7FmGC0XpCJ00FoJQ"
+          "current_key": "AIzaSyB5c3ZDvNouqz7UJOYpvUcbCrCmeFYCh20"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1000829075873-44dfsvsl9rtvgufguju5sp15tj2kqln2.apps.googleusercontent.com",
+              "client_id": "283512718486-j00uf5gh856gqfpl3bgmokkk19iqp426.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283512718486:android:5b5716e6bef1421c81eeb7",
+        "android_client_info": {
+          "package_name": "com.rohith.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283512718486-uckls2202puk182sr6t6otv81j1o6ddr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rohith.instagram",
+            "certificate_hash": "3e8082e695b26f3b5c40d12e682cbd203e420087"
+          }
+        },
+        {
+          "client_id": "283512718486-j00uf5gh856gqfpl3bgmokkk19iqp426.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5c3ZDvNouqz7UJOYpvUcbCrCmeFYCh20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283512718486-j00uf5gh856gqfpl3bgmokkk19iqp426.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283512718486:android:7ea7e375e7c99f9981eeb7",
+        "android_client_info": {
+          "package_name": "gst.trainingcourse.instagramclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283512718486-v02tva6g6mriqg8odghsqk9j348a8g5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gst.trainingcourse.instagramclone",
+            "certificate_hash": "3e8082e695b26f3b5c40d12e682cbd203e420087"
+          }
+        },
+        {
+          "client_id": "283512718486-j00uf5gh856gqfpl3bgmokkk19iqp426.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5c3ZDvNouqz7UJOYpvUcbCrCmeFYCh20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283512718486-j00uf5gh856gqfpl3bgmokkk19iqp426.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
