@@ -8,43 +8,6 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:283512718486:android:f37c56c9d686042681eeb7",
-        "android_client_info": {
-          "package_name": "com.rohith.InstaLove"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "283512718486-a3e8ghhfiuddl19f4fd78rj8kre6dj58.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.rohith.InstaLove",
-            "certificate_hash": "3e8082e695b26f3b5c40d12e682cbd203e420087"
-          }
-        },
-        {
-          "client_id": "283512718486-j00uf5gh856gqfpl3bgmokkk19iqp426.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyB5c3ZDvNouqz7UJOYpvUcbCrCmeFYCh20"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "283512718486-j00uf5gh856gqfpl3bgmokkk19iqp426.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
         "mobilesdk_app_id": "1:283512718486:android:423e51796f2879e581eeb7",
         "android_client_info": {
           "package_name": "com.rohith.instaLovee"
